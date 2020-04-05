@@ -14,7 +14,7 @@
   "author": "Angel Ulice Tabares Gonzalez <taho2509@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.19.2",
     "node-nats-streaming": "^0.2.6",
     "uuid": "^3.3.3"
   },
